@@ -59,9 +59,12 @@ Customers were grouped according to:
 - Improve customer retention through segmentation.
 - Strengthen data validation and quality controls.
 
+## Open in Colab:
+https://colab.research.google.com/drive/1l2XhzejQh0EgiiVlYNibnR5XQP3O-nE4?usp=sharing
+
 ## Repository Structure
 
-
+```text
 ├── Analysis ConnectaTel.ipynb
 ├── data/
 │   ├── plans.csv
@@ -69,10 +72,6 @@ Customers were grouped according to:
 │   └── usage.csv
 └── README.md
 
-
-## Open in Colab:
-https://colab.research.google.com/drive/1l2XhzejQh0EgiiVlYNibnR5XQP3O-nE4?usp=sharing
-
-## Author
+Author
 
 Data Analytics project focused on **customer behavior analysis**, **segmentation**, and **business intelligence** within the telecommunications industry.
