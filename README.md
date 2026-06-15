@@ -68,6 +68,7 @@ Customers were grouped according to:
 │   ├── users_latam.csv
 │   └── usage.csv
 └── README.md
+```text
 
 ## Open in Colab:
 https://colab.research.google.com/drive/1l2XhzejQh0EgiiVlYNibnR5XQP3O-nE4?usp=sharing
