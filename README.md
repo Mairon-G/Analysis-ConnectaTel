@@ -69,6 +69,9 @@ Customers were grouped according to:
 │   └── usage.csv
 └── README.md
 
+## Open in Colab:
+https://colab.research.google.com/drive/1l2XhzejQh0EgiiVlYNibnR5XQP3O-nE4?usp=sharing
+
 ## Author
 
 Data Analytics project focused on **customer behavior analysis**, **segmentation**, and **business intelligence** within the telecommunications industry.
